@@ -58,15 +58,15 @@
         <pl:contactPerson>
                 <contact_info xmlns="http://www.exlibrisgroup.com/Plugins/1.0/">
                         <contactType>admin</contactType>
-                        <firstName></firstName>
-                        <lastName>SLUB Dresden</lastName>
+                        <firstName>Artur</firstName>
+                        <lastName>Spengler</lastName>
                         <telephone1></telephone1>
                         <telephone2></telephone2>
-                        <email>rosetta@slub-dresden.de</email>
-                        <address1>Zellescher Weg 17</address1>
+                        <email>artur.spengler@tib.eu</email>
+                        <address1>Welfengarten 1B</address1>
                         <address2></address2>
-                        <city>Dresden</city>
-                        <zipCode>01069</zipCode>
+                        <city>Hannover</city>
+                        <zipCode>30167</zipCode>
                         <country>Germany</country>
                 </contact_info>
         </pl:contactPerson>
